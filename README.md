@@ -1,6 +1,7 @@
 # LucidProgramming YouTube Tutorial Scripts:
 [LucidProgramming](http://bit.ly/lucidcode) is my YouTube channel and this repo consists of a collection of scripts corresponding to YouTube tutorials for my YouTube channel.
 https://www.youtube.com/watch?v=BDw8zzy3QiY
+https://github.com/Josesosa0777/youtube_tutorials/blob/master/data_structures/trees/binary_trees/binary_tree_height.py
 ## Sponsoring
 
 If you found this code useful in your programming journey, please consider
